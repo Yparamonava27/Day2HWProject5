@@ -5,5 +5,8 @@ public class Class1 {
 		
 		System.out.println("Project5");
 	}
-
+public void favCity() {
+	System.out.println("I have a lot of favorite cities...");
+	
+}
 }
